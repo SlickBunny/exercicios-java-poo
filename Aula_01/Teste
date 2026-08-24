@@ -1,0 +1,4 @@
+cd ..                 # da pasta da aula para a raiz do repositório
+git add aula-01/
+git commit -m "Resolve exercícios da aula 01"
+git push
