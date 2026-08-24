@@ -6,7 +6,7 @@ public class Ficha {
         System.out.println("Nome: Vinicius");
         System.out.println("Cidade: Campinas");
         System.out.println("Curso: Ciência da Computação");
-        System.out.println("Objetivo: Entender a fundo a alocação de memória no Java");
+        System.out.println("Objetivo: Aprender java");
       
     }
 }
@@ -15,6 +15,6 @@ public class Ficha {
 public class Ficha {
     public static void main(String[] args) {
 
-        System.out.println("Nome: Vinicius\nCidade: Campinas\nCurso: Ciência da Computação\nObjetivo: Entender a fundo a alocação de memória no Java");
+        System.out.println("Nome: Vinicius\nCidade: Campinas\nCurso: Ciência da Computação\nObjetivo: Aprender java");
     }
 }
